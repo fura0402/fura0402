@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 Hello.
-<br>
+
 I don't understand English... :(
 <br>
 英語わからない。。。 (; ;)
